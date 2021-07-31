@@ -7,6 +7,8 @@
     <title>Candace's Resume</title>
 </head>
 <body>
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHtJJcvvKCJiA/profile-displayphoto-shrink_400_400/0/1590851811745?e=1632960000&v=beta&t=B5kcZ0cQym5XtvkmG-Oeem-LjebymjFVFw1NuVyKl5g" alt="Candace Williams Headshot">
+
     <h1>Candace Williams</h1>
     <a href="https://www.linkedin.com/in/candace-williams-mie/">linkedin Profile</a> | <a href="https://github.com/cawilli">GitHub Profile</a>
     <h4>Current Role: <em>Datacenter Technician </em> </h4>
@@ -66,6 +68,10 @@
     <br><b>Microsoft:</b> 365 Certified Fundamentals</br>
     <b>Microsoft:</b> Accessbility in Action
     <br><b>Microsoft:</b> Certified Cloud Fundamentals</br>
+
+    <img src="https://images.credly.com/size/220x220/images/5c96fc59-1174-4dd0-a5c1-56772e38d8c7/microsoft365-fundamentals-600x600.png" alt="Microsoft 365 Fundamentals Badge"> 
+    <img src="https://images.credly.com/size/220x220/images/032707aa-1479-4d45-8848-860c174c65eb/MTA-Cloud-Fundamentals-2018.png" alt="Cloud Fundamentals Badge">
+    <img src="https://images.credly.com/size/220x220/images/c3bcd888-1910-41b6-8dff-50180f56aea2/VILT_Change_Practitioner_Certification_V2.png" alt="Prosci Change Practitioner Badge">
     
       
 </body>
