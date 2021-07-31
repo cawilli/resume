@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Candace Williams</h1>
+    <a href="https://www.linkedin.com/in/candace-williams-mie/">linkedin Profile</a> | <a href="https://github.com/cawilli">GitHub Profile</a>
     <h4>Current Role: <em>Datacenter Technician </em> </h4>
     
     <p>
