@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Candace's Resume</title>
+    <style>
+        body {background-color:lightgrey;}
+        h1 {color:white; text-align: center;}
+    </style>
 </head>
 <body>
     <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHtJJcvvKCJiA/profile-displayphoto-shrink_400_400/0/1590851811745?e=1632960000&v=beta&t=B5kcZ0cQym5XtvkmG-Oeem-LjebymjFVFw1NuVyKl5g" alt="Candace Williams Headshot">
@@ -13,18 +17,18 @@
     <a href="https://www.linkedin.com/in/candace-williams-mie/">linkedin Profile</a> | <a href="https://github.com/cawilli">GitHub Profile</a>
     <h4>Current Role: <em>Datacenter Technician </em> </h4>
     
-    <p>
-    Experienced site services technician with a demonstrated history of working in the computer software industry. Skilled in Research, Microsoft services, and Customer Resolution and Success. Strong operations professional with Bachelor of Arts (B.A.) and a Master's in Information Systems Management.
-    </p>
+    <p style="font-family:verdana; font-size:14px;">
+    <em>Experienced site services technician with a demonstrated history of working in the computer software industry. Skilled in Research, Microsoft services, and Customer Resolution and Success. Strong operations professional with Bachelor of Arts (B.A.) and a Master's in Information Systems Management.
+    </em></p>
     
-    <h3>Experience</h3>
+    <h3 style="color:blue;">Experience</h3>
     
     <p>
     <b>Microsoft</b> (2 years)
     
         <br><br>Datacenter Technician</br></br>
             <ul>
-            <li>Redmond New Employee Orientation facilitator conducting monthly onboarding sessions and analyzing the new employee program to improve accessibility and maximize impact</li>
+            <li style="margin-top:10px">Redmond New Employee Orientation facilitator conducting monthly onboarding sessions and analyzing the new employee program to improve accessibility and maximize impact</li>
             <li>Maintained SLAs and uptime through efficient troubleshooting and repair of server blades</li>
             <li> Conduct customer calls to educate on Microsoft infrastructure and advise on best cloud options</li>
             </ul>
@@ -44,7 +48,7 @@
             
     <b>Cancer Support Community</b> (4 months)
     
-        <br><br>Affiliate Affairs</br></br>
+        <br style="margin-bottom:10px"><br>Affiliate Affairs</br></br>
             <ul>
             <li>Developed communication strategy that created a more successful flow of communication between headquarters and the affiliates</li>
             <li>Technical and operational resource for US and international affiliates</li>
@@ -53,7 +57,7 @@
     </p>
             
     
-    <h3>Education</h3>
+    <h3 style="color:blue;">Education</h3>
     
     <p>
     <b>University of Arizona -</b> <em>Master's, Information Systems Management</em>
@@ -61,7 +65,7 @@
     
     </p>
     
-    <h3>Cerifications</h3>
+    <h3 style="color:blue;">Cerifications</h3>
     
     <p>
     <b>Prosci:</b> Certified Change Practicioner
@@ -69,11 +73,11 @@
     <b>Microsoft:</b> Accessbility in Action
     <br><b>Microsoft:</b> Certified Cloud Fundamentals</br>
 
+    <div>
     <img src="https://images.credly.com/size/220x220/images/5c96fc59-1174-4dd0-a5c1-56772e38d8c7/microsoft365-fundamentals-600x600.png" alt="Microsoft 365 Fundamentals Badge"> 
     <img src="https://images.credly.com/size/220x220/images/032707aa-1479-4d45-8848-860c174c65eb/MTA-Cloud-Fundamentals-2018.png" alt="Cloud Fundamentals Badge">
     <img src="https://images.credly.com/size/220x220/images/c3bcd888-1910-41b6-8dff-50180f56aea2/VILT_Change_Practitioner_Certification_V2.png" alt="Prosci Change Practitioner Badge">
-    
+    </div>
       
 </body>
 </html>
-# resume
